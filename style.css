@@ -1,0 +1,186 @@
+.lightgrey {
+    background-color: lightgrey;
+}
+.grey {
+    background-color: grey;
+}
+.black {
+    background-color: black;
+}
+.darkblue {
+    background-color: darkblue;
+}
+.yellow {
+    background-color: yellow;
+}
+.orangered {
+    background-color: orangered;
+}
+
+div {
+    height: 50px;
+}
+
+@media screen and (min-width: 600px) {
+    div {
+    position: absolute;
+    border: solid black;
+}
+
+div.box1 {
+    width: 70px;
+    height: 300px;
+}
+div.box2 {
+    top: 282px;
+    width: 70px;
+    height: 300px;
+}
+div.box3 {
+    top: 571px;
+    width: 130px;
+    height: 30px;
+}
+div.box4 {
+    left: 73px;
+    top: 281px;
+    width: 57px;
+    height: 287px;
+}
+div.box5 {
+    top: 176px;
+    left: 73px;
+    width: 57px;
+    height: 100px;
+}
+div.box6 {
+    top: 80px;
+    left: 73px;
+    width: 256px;
+    height: 90px;
+}
+div.box7 {
+    top: 10px;
+    left: 73px;
+    width: 57px;
+    height: 65px;
+}
+div.box8 {
+    left: 73px;
+    width: 400px;
+    height: 10px;
+}
+div.box9 {
+    top: 13px;
+    left: 133px;
+    width: 340px;
+    height: 63px;
+}
+div.box10 {
+    top: 174px;
+    left: 134px;
+    width: 195px;
+    height: 120px;
+}
+div.box11 {
+    top: 290px;
+    left: 134px;
+    width: 195px;
+    height: 90px;
+}
+div.box12 {
+    top: 384px;
+    left: 134px;
+    width: 195px;
+    height: 90px;
+}
+div.box13 {
+    top: 480px;
+    left: 134px;
+    width: 195px;
+    height: 90px;
+}
+div.box14 {
+    top: 571px;
+    left: 133px;
+    width: 340px;
+    height: 30px;
+}
+div.box15 {
+    top: 478px;
+    left: 332px;
+    width: 141px;
+    height: 90px;
+}
+div.box16 {
+    top: 386px;
+    left: 332px;
+    width: 141px;
+    height: 87px;
+}
+div.box17 {
+    top: 170px;
+    left: 332px;
+    width: 141px;
+    height: 210px;
+}
+div.box18 {
+    top: 80px;
+    left: 332px;
+    width: 141px;
+    height: 90px;
+}
+div.box19 {
+    left: 476px;
+    width: 211px;
+    height: 77px;
+}
+div.box20 {
+    top: 80px;
+    left: 479px;
+    width: 168px;
+    height: 90px;
+}
+div.box21 {
+    top: 80px;
+    left: 647px;
+    width: 40px;
+    height: 90px;
+}
+div.box22 {
+    top: 172px;
+    left: 476px;
+    width: 170px;
+    height: 209px;
+}
+div.box23 {
+    left: 649px;
+    top: 174px;
+    width: 38px;
+    height: 297px;
+}
+div.box24 {
+    top: 386px;
+    left: 476px;
+    width: 169px;
+    height: 87px;
+}
+div.box25 {
+    top: 478px;
+    left: 476px;
+    width: 169px;
+    height: 90px;
+}
+div.box26 {
+    left: 649px;
+    top: 477px;
+    width: 38px;
+    height: 124px;
+}
+div.box27 {
+    left: 476px;
+    top: 571px;
+    width: 169px;
+    height: 30px;
+}
+}
